@@ -1,0 +1,13 @@
+most of the white box are easy to access and some of them are little bit confusing but if we practice regularly
+void main()
+{
+system.out.println</system>
+}
+Enter the salary of first employee
+}
+}
+enter the name of employe 
+}
+ra
+enter the value of the system
+
